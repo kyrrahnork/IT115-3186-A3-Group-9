@@ -2,7 +2,7 @@
 Repo for IT115 Assignment 3, group 9
 
 ## Team Lead: Kyrrah
-Creates repo, invites collaborators, ensure slack group channel is created and members invited.
+Creates repo, invites collaborators, ensures slack group channel is created and members invited.
 
 In succession, each team member will:
 
