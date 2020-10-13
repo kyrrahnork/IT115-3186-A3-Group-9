@@ -14,7 +14,7 @@ In succession, each team member will:
 - Reviewer will be the teammate directly below you
 - The final team member will assign the first team member as your reviewer
 
-### Team Members (ficticoius example)
+### Team Members (fictitious example)
 1.Kyrrah
 
 2.Danielle
