@@ -15,7 +15,10 @@ In succession, each team member will:
 - The final team member will assign the first team member as your reviewer
 
 ### Team Members (ficticoius example)
-Kyrrah
-Danielle
-Lewis
-Gabe
+1.Kyrrah
+
+2.Danielle
+
+3.Lewis
+
+4.Gabe
